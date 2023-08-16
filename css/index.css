@@ -1,0 +1,35 @@
+header {
+    background-color: blue;
+    height: 140px;
+    border: 3px solid black;
+}
+
+aside {
+    background-color: red;
+    width: 25%;
+    height: 500px;
+    float: left;
+    border: 3px solid black;
+}
+
+section {
+    background-color: green;
+    width: 70%;
+    height: 500px;
+    border: 3px solid black;
+}
+
+.div1 {
+    background-color: orange;
+    width: 27%;
+    height: 280px;
+    float: left;
+    border: 3px solid black;
+}
+
+footer {
+    background-color: purple;
+    height: 160px;
+    clear: both;
+    border: 3px solid black;
+}
